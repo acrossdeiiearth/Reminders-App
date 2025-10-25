@@ -66,11 +66,16 @@ The **General Info Section** allows users to record personal details such as:
 
 ## 🎥 App Demo  
 
-[![App Demo Preview](https://github.com/user-attachments/assets/2844b0c2-a44c-4d08-9025-ebca29e0d99b)](https://github.com/user-attachments/assets/651099e3-3b00-45eb-b172-5e7962ea1774)  
-> Click the image above to watch the full demo video.  
+<details>
+  <summary>▶️ Click to View Demo</summary>
+
+  https://github.com/user-attachments/assets/651099e3-3b00-45eb-b172-5e7962ea1774  
+</details>
+
+The demo video showcases the **Reminders App** in action, highlighting how users can store and manage personal data such as passwords and important dates.  
+It visually demonstrates the app’s **Material Design layout**, smooth interactions, and real-device performance.  
 
 ---
 
 ## 📂 Project Structure  
-
 
